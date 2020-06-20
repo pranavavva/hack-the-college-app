@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Pranav Avva"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Pranav is a rising freshman at Princeton University, Class of 2024. With scores of 1550 on the SAT, a 5 on four AP exams, and an 800 on two SAT Subject Tests, Pranav explains the best practices on how to hack the college application process."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
