@@ -1,4 +1,4 @@
-{% if site.analytics.provider != false %}
+{% if site.analytics.provider != false and jekyll.environment == 'production' %}
 
 {% case site.analytics.provider %}
 {% when "google" %}
