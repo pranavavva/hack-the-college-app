@@ -17,7 +17,7 @@ title: Hack The College App
 name: Pranav Avva
 email: pranav.avva@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hack The College App, a definitive guide to all things applying to college.
+  A definitive guide to all things applying to college.
 twitter_username: PranavAvva
 github_username: pranavavva
 minimal_mistakes_skin: default
@@ -26,6 +26,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+incremental: true
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -63,7 +64,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://pranavavva.github.io/hack-the-college-app"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PranavAvva"
