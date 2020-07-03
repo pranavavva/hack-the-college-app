@@ -22,6 +22,13 @@ twitter_username: PranavAvva
 github_username: pranavavva
 minimal_mistakes_skin: default
 search: true
+search_provider: algolia
+
+algolia:
+  application_id: "GQALG3HR34"
+  index_name: "Hack The College App"
+  search_only_api_key: "31374cadc9b77fee0ec0b652a5067ce8"
+  powered_by: true
 
 # Build settings
 markdown: kramdown
@@ -119,6 +126,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 comments:
   provider: "disqus"
